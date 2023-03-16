@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+ /* left box */
+div.fbtext{
+   
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+h1{
+    color: rgb(64, 64, 255);
+    margin: 0%;
+    font-size: 25px;
+}
+p{
+    font-size: 16px;
+   margin: 0%;
+}
+.righttext{
+    margin:  130px 350px;
+    
+    width: 350px;
+}
+/* right box */
+div.fbform{
+   
+    height: 400px;
+    width: 50%;
+    float:left
+
+}
+
+form{
+   width:310px;
+   height:260px;
+   
+    margin: 60px 120px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+
+}
+hr{
+   border-color: rgb(228, 224, 224);
+   margin-top: 20px;
+}
+input{
+    margin-top: 7px;
+    width: 270px ;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(179, 172, 172,0.1);
+    color: rgb(179, 179, 179,0.9);
+    padding-left: 10px;
+   
+}
+#login{
+    color: white;
+    background:rgb(90, 90, 255);
+    font-size: medium;
+}
+#forgot{ 
+    margin-top: 50px;
+    
+    font-size: smaller;
+    margin-top: 10px;
+}
+#create{
+   color: white;
+   background-color: rgb(31, 192, 31);
+   width: 170px;
+   margin-top: 10px;
+}
+.divtext{ 
+    font-size: 12px;
+    text-align: center;
+   margin-top: 10px;
+   margin-left: 30px;
+  }
+
